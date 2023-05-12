@@ -106,7 +106,7 @@
 |                      | Acrylic Sheet Clear - 241.5x503x3 mm                | /                                   | 2   | 4/1/23                |
 |                      | Acrylic Sheet Clear - 483x503x3 mm                  | /                                   | 2   | 4/1/23                |
 |                      | Acrylic Sheet Clear - 483x483x3 mm                  | /                                   | 1   | 4/1/23                |
-| Buildplate           | Double-sided PEI platform 300×300mm                 | SIBOOR                              | 1   | 4/1/23                |
+| Buildplate           | Double-sided PEI platform 350×350mm                 | SIBOOR                              | 1   | 4/1/23                |
 |                      | MIC6 -350×350×8mm                                   | SIBOOR                              | 1   | 4/1/23                |
 |                      | Silicone AC Heater w/ thermistor - 300x300mm (650W) | SIBOOR                              | 1   | 4/1/23                |
 |                      | ABS printed parts                                   | ESUN                                | 1   | optional              |
