@@ -81,7 +81,6 @@
 |                      | Delixi SSR CDG1-1DA/10A DC control AC               | Delixi                              | 1   | 4/1/23                |
 |                      | DIN rail mounting bracket                           | /                                   | 1   | 4/1/23                |
 |                      | National Standard Power Cord 1.5m                   | Replaceable Specification           | 1   | 4/1/23                |
-|                      | Card Reader                                         | Card Reader                         | 1   | 4/1/23                |
 | Vibration Management | "Rubber Foot (1.5x.75""）（ 38x19mm)）"                | Black                               | 4   | 4/1/23                |
 | Frame                | 2020 Triangle Angle Code                            | Black                               | 4   | 4/1/23                |
 |                      | DIN 3 Rails (35mm W)                                | DIN Rail                            | 2   | 4/1/23                |
