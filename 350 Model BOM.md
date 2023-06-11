@@ -43,7 +43,7 @@
 |                      | M3 Threaded Insert (M3x5x4)                         | /                                   | 125 | 4/1/23                |
 |                      | M2x10 Self-tapping Screw                            | /                                   | 19  | 4/1/23                |
 |                      | M2.5×12 BHCS                                        | /                                   | 5   | 4/1/23                |
-| Motion               | PC4 01 Pneumatic coupling                           | powge                               | 2   | 4/1/23                |
+| Motion               | PC4 01 Pneumatic coupling                           | /                                   | 2   | 4/1/23                |
 |                      | GT2 80T Pulley (5mm ID 6mm W)                       | powge                               | 4   | 4/1/23                |
 |                      | GT2 20T Pulley (5mm ID 6mm W)                       | powge                               | 3   | 4/1/23                |
 |                      | GT2 20T Pulley (5mm ID 9mm W)                       | powge                               | 4   | 4/1/23                |
