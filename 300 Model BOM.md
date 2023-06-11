@@ -78,7 +78,7 @@
 |                      | TMC2209 Driver                                      | FYS                                 | 7   | 4/1/23                |
 |                      | Orange Pi pi3 lts                                   | Geek                                | 1   | 4/1/23                |
 |                      | Meanwell Power Supply LRS-200-24                    | Mean Well                           | 1   | 4/1/23                |
-|                      | Delixi Solid State Relay                            | Delixi                              | 1   | 4/1/23                |
+|                      | Delixi SSR CDG1-1DA/10A DC control AC               | Delixi                              | 1   | 4/1/23                |
 |                      | DIN rail mounting bracket                           | /                                   | 1   | 4/1/23                |
 |                      | National Standard Power Cord 1.5m                   | Replaceable Specification           | 1   | 4/1/23                |
 |                      | Card Reader                                         | Card Reader                         | 1   | 4/1/23                |
