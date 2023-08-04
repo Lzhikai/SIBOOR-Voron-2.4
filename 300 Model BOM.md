@@ -56,8 +56,8 @@
 |                      | Ø5x60mm Shaft                                       | /                                   | 4   | 4/1/23                |
 |                      | Ø5x30mm Shaft                                       | /                                   | 1   | 4/1/23                |
 |                      | GT2 Belt Loop (6mm W) - 188mm                       | Gates                               | 4   | 4/1/23                |
-|                      | GT2 Open Belt LL-2GT-9 (9mm wide) - 1200mm          | Gates                               | 4   | 4/1/23                |
-|                      | GT2 Open Belt LL-2GT-6 (6mm wide) - 2000mm          | Gates                               | 2   | 4/1/23                |
+|                      | GT2 Open Belt LL-2GT-9 (9mm wide) - 1000mm          | Gates                               | 4   | 4/1/23                |
+|                      | GT2 Open Belt LL-2GT-6 (6mm wide) - 1800mm          | Gates                               | 2   | 4/1/23                |
 |                      | MGN9H 400mm linear guide                            | SIBOOR                              | 6   | 4/1/23                |
 |                      | MGN12H 400mm linear guide                           | HIWIN                               | 1   | 4/1/23                |
 |                      | NEMA17 Motor 17HS19-2004S                           | OMC                                 | 6   | 4/1/23                |
