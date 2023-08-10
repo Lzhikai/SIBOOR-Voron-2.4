@@ -73,7 +73,7 @@
 |                      | 40x40x10 Axial Fan (24V)                            | Geek                                | 1   | 4/1/23                |
 |                      | 60x60x20 Axial Fan (24V)                            | Geek                                | 3   | 4/1/23                |
 |                      | Power socket with cord with light                   | /                                   | 1   | 4/1/23                |
-|                      | FYS Spider2.3 board                                 | FYS                                 | 1   | 4/1/23                |
+|                      | FYS Spider3.0 board                                 | FYS                                 | 1   | 4/1/23                |
 |                      | Mini12864 Display                                   | FYS                                 | 1   | 4/1/23                |
 |                      | TMC2209 Driver                                      | FYS                                 | 7   | 4/1/23                |
 |                      | Orange Pi pi3 lts                                   | Geek                                | 1   | 4/1/23                |
