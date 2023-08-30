@@ -3,7 +3,7 @@
 ### Under special situations, parts will updated to same level and quality products.  
 ### From April 15, 2023, we will send the V2.4 kit of the Stealthburner version by default. If you buy the Afterburner version, some accessories will be different from the BOM list. For example, the extrusion motor is not a Nema 14 36 motor, but a NEMA17 Motor 17HS08-1004S. Not a 5015 blower but a 4020 blower. And the attached tool head PCB is also different
 ### If there has any changes, will update immediately here.
-## VORON 2.4R2 Revision 1.1
+## VORON 2.4R2 350 Model
 
 
 | Category             | Description                                         | brand                               | Qty | update time           |
